@@ -1,0 +1,153 @@
+.container{
+    padding-top: 20px;
+}
+.nav2.ar{
+    text-decoration: none;
+    color: black;
+    font-size: 20px;
+}
+.nav2 .home{
+    color: white;
+
+}
+.nav2 li{
+    padding:3px;
+
+}
+.nav2 .red{
+    background-color: #ed1c24;
+}
+.navbar-toggler{
+    width: 100%;
+}
+.bars{
+    color: #ed1c24;
+    font-size: 40px;
+}
+.btnslide{
+    background-color: #ed1c24;
+    width: 100px;
+    height: 100px;
+    padding: 10px;
+    color: white;
+}
+.p1{
+    padding: 50px;
+    padding-top: 100px;
+}
+.text1{
+    font-size: 40px;
+    color: black;
+}
+.text2{
+    font-size: 80px;
+    color: #ed1c24;
+}
+.text3{
+    width: 550px;
+}
+.button1{
+    text-align: center;
+}
+button{
+    background-color: #ed1c24;
+    color: white;
+    height: 40px;
+    width: 100px;
+    border: none;
+}
+.text4{
+    color: #ed1c24;
+    border-bottom: 2px solid black ; width: 450px;
+    font-size: 50px;
+    padding: 10px;
+    
+    
+}
+.text5{
+    color: black;
+}
+.text6{
+    margin-top: 20px;
+}
+.bottom{
+    border-bottom: 1px solid black;
+    margin-top: 20px;
+}
+
+
+.breakfast{
+    border: 15px solid rgb(200, 196, 196);
+}
+.toast1{
+    color: #ed1c24;
+    text-align: center;
+}
+.den{
+    color: #ed1c24;
+
+}
+.den1{
+    border-bottom: 2px solid black; width: 100px;
+    margin-bottom: 30px;
+}
+.our1{
+    color: #ed1c24;
+    border-bottom: 2px solid black;
+}
+.Gallery{
+    text-align: center;
+    margin-bottom: 30px;
+}
+.touch1{
+    text-align: center;
+}
+.getin{
+    color: #ed1c24;
+    border-bottom: 2px solid black;
+}
+.form1{
+    margin-top: 20px;
+}
+.form2{
+
+}
+
+
+input{
+    width: 300px;
+    height: 50px;
+    margin-left:250px;
+    border: 5px solid #ed1c24;
+    
+}
+.last{
+    background-color: black;
+    color: white;
+    margin-left: 350px;
+    margin-top: 20px;
+}
+.gallery_blog{
+    position: relative;
+    width:100%
+}
+.gallery_blog img{
+    width: 100%;
+    min-height: 295px;
+}
+.gallery_blog .overlay:hover{
+    position:absolute;
+    top: 0;
+    left: 0;
+    height: 100%;
+    width: 100%;
+    background-color: rgba(250,62,25,.9);
+}
+.gallery_blog h2{
+    color: #fff;
+    line-height: 287px;
+    width: 100%;
+    text-align: center;
+    font-size: 30px;
+    font-weight: 700px;
+}
